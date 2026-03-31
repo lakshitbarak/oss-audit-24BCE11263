@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 # Author: [Keshav Gupta] | Course: Open-Source Software
 # --- Variables ---s
-STUDENT_NAME="Keshav Gupta"
+STUDENT_NAME="Lakshit Barak"
 SOFTWARE_CHOICE="Python"
 # --- System info ---
 KERNEL=$(uname -r)
